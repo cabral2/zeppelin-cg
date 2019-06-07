@@ -22,3 +22,5 @@ sudo apt-get install libsdl-mixer1.2-dev;
 Run video   
 https://www.youtube.com/watch?v=Si4wjnQNZeg   
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Si4wjnQNZeg" target="_blank"><img src="http://img.youtube.com/vi/Si4wjnQNZeg/0.jpg" alt="Run video" width="240" height="180" border="10" /></a>
+
+Feito em conjunto com: https://github.com/Luckened
